@@ -1,20 +1,20 @@
 # Yeahreum Daemon Windows server Command
 
-# How do I setup a Yeahreum Daemon Windows Command (YDWS) on Windows Server 2019 |  2018 | 2015
+ How do I setup a Yeahreum Daemon Windows Command (YDWS) on Windows Server 2019 |  2018 | 2015
 
 
-# Download the Windows QT wallet from MyCoin and upload the file to your Windows Server.
+ Download the Windows QT wallet from MyCoin and upload the file to your Windows Server.
 
-# Note: replace “yeahreum”
-
-
-# Extract the zip file [Download GT YDWS](https://api.server.yeahreum.net/daemon/wserver/) Manually Install
+ # Note: replace “yeahreum”
 
 
-# Close your wallet and create the file yeahreum.conf in the folder “%APPDATA%\yeahreum\”.
+ Extract the zip file [Download GT YDWS](https://api.server.yeahreum.net/daemon/wserver/) Manually Install
 
 
-# Paste the following lines in yeahreum.conf.
+ Close your wallet and create the file yeahreum.conf in the folder “%APPDATA%\yeahreum\”.
+
+
+ # Paste the following lines in yeahreum.conf.
 
 ```
  rpcuser=rpc_yeahreum
