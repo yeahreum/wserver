@@ -10,7 +10,7 @@
 
  Extract the zip file [Download GT YDWS](https://api.server.yeahreum.net/daemon/wserver/yeahreum.exe) 
  
- [Download Yahrm Daemon ](https://api.server.yeahreum.net/daemon/wserver/yeahreum.exe) 
+ [Download Yahrm Daemon ](https://api.server.yeahreum.net/daemon/wserver/yeahreumd.exe) 
 
 
  Close your wallet and create the file yeahreum.conf in the folder
