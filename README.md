@@ -32,5 +32,5 @@
 # Start your YDWS with the following command.
 
 ```
-Your wallet will function as a node when you start your wallet.
+Your wallet will function as a node when you start your wallet. (open Yeahreum Wallet)
 ```
