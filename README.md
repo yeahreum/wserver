@@ -34,3 +34,5 @@
 ```
 Your wallet will function as a node when you start your wallet. (open Yeahreum Wallet)
 ```
+
+# For your [Ubuntu machine](https://github.com/yeahreum/daemon)
