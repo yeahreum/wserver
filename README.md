@@ -8,11 +8,17 @@
  # Note: replace “yeahreum”
 
 
- Extract the zip file [Download GT YDWS](https://api.server.yeahreum.net/daemon/wserver/) Manually Install
+ Extract the zip file [Download GT YDWS](https://api.server.yeahreum.net/daemon/wserver/) 
+ 
+ 
+ Manually Install
 
 
- Close your wallet and create the file yeahreum.conf in the folder “%APPDATA%\yeahreum\”.
-
+ Close your wallet and create the file yeahreum.conf in the folder
+ 
+ ```
+ “%APPDATA%\yeahreum\”.
+```
 
  # Paste the following lines in yeahreum.conf.
 
