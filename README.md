@@ -3,7 +3,7 @@
  How do I setup a Yeahreum Daemon Windows Command (YDWS) on Windows Server 2019 |  2018 | 2015
 
 
- Download the Windows QT wallet from MyCoin and upload the file to your Windows Server.
+ Download the Windows QT wallet from yeahreum and upload the file to your Windows Server.
 
  # Note: replace “yeahreum”
 
