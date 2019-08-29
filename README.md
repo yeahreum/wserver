@@ -29,7 +29,7 @@
  addnode=yahrm.net
 ```
 
-# Start your YDLC with the following command.
+# Start your YDWS with the following command.
 
 ```
 Your wallet will function as a node when you start your wallet.
